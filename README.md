@@ -1,2 +1,2 @@
 # Flying-chicken
-bla bla
+This is a 2D game imlemented with Java Swing
